@@ -5,6 +5,10 @@
   "author": "ian henry smith",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
   "dependencies": {
     "lodash": "^4.17.10",
     "phaser": "^3.7.1",
